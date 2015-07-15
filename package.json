@@ -1,0 +1,20 @@
+{
+  "name": "hapi-homework",
+  "version": "0.1.0",
+  "description": "This is for API class. 'Create an index.js where hapi.js server is defined with a sample route http://github.com/hapijs/hapi'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Homework",
+    "API",
+    "hapijs",
+    "hapi"
+  ],
+  "author": "Hee JANG",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^8.8.0"
+  }
+}
